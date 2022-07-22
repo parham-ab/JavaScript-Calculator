@@ -10,6 +10,7 @@
 }
 body {
   background-color: #111;
+  overflow: hidden;
 }
 .calc {
   width: 400px;
